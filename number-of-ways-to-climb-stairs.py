@@ -1,4 +1,4 @@
-def count_num_paths_stairs(n):
+def climb_Stairs(n):
     if n <= 1:
         return 1
     pre_path = 1
